@@ -1,7 +1,7 @@
 {
   "main.css": "/epizodeslist_with_calendar/static/css/main.6f275ecd.chunk.css",
-  "main.js": "/epizodeslist_with_calendar/static/js/main.d5562389.chunk.js",
-  "main.js.map": "/epizodeslist_with_calendar/static/js/main.d5562389.chunk.js.map",
+  "main.js": "/epizodeslist_with_calendar/static/js/main.96f186c5.chunk.js",
+  "main.js.map": "/epizodeslist_with_calendar/static/js/main.96f186c5.chunk.js.map",
   "static/css/1.b9779858.chunk.css": "/epizodeslist_with_calendar/static/css/1.b9779858.chunk.css",
   "static/js/1.09a61e41.chunk.js": "/epizodeslist_with_calendar/static/js/1.09a61e41.chunk.js",
   "static/js/1.09a61e41.chunk.js.map": "/epizodeslist_with_calendar/static/js/1.09a61e41.chunk.js.map",
@@ -9,9 +9,9 @@
   "runtime~main.js.map": "/epizodeslist_with_calendar/static/js/runtime~main.cff55479.js.map",
   "static/media/tv-png.png": "/epizodeslist_with_calendar/static/media/tv-png.332c960b.png",
   "static/media/App.css": "/epizodeslist_with_calendar/static/media/OpenSans-Light.9ff12f69.ttf",
-  "static/css/main.6f275ecd.chunk.css.map": "/epizodeslist_with_calendar/static/css/main.6f275ecd.chunk.css.map",
   "static/css/1.b9779858.chunk.css.map": "/epizodeslist_with_calendar/static/css/1.b9779858.chunk.css.map",
+  "static/css/main.6f275ecd.chunk.css.map": "/epizodeslist_with_calendar/static/css/main.6f275ecd.chunk.css.map",
   "index.html": "/epizodeslist_with_calendar/index.html",
-  "precache-manifest.11eb2d41f4525901b3c0432a40455357.js": "/epizodeslist_with_calendar/precache-manifest.11eb2d41f4525901b3c0432a40455357.js",
+  "precache-manifest.3745bdf6fe295be2f2c23bde5d4bbfe7.js": "/epizodeslist_with_calendar/precache-manifest.3745bdf6fe295be2f2c23bde5d4bbfe7.js",
   "service-worker.js": "/epizodeslist_with_calendar/service-worker.js"
 }
