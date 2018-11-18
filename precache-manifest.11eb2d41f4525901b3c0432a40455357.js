@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/epizodeslist_with_calendar/static/media/tv-png.332c960b.png"
   },
   {
-    "revision": "0204cb0670465bd29a72",
+    "revision": "d5562389fb239819de4d",
     "url": "/epizodeslist_with_calendar/static/css/main.6f275ecd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/epizodeslist_with_calendar/static/js/runtime~main.cff55479.js"
   },
   {
-    "revision": "0204cb0670465bd29a72",
-    "url": "/epizodeslist_with_calendar/static/js/main.0204cb06.chunk.js"
+    "revision": "d5562389fb239819de4d",
+    "url": "/epizodeslist_with_calendar/static/js/main.d5562389.chunk.js"
   },
   {
     "revision": "9ff12f694e5951a6f51a9d63b05062e7",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/epizodeslist_with_calendar/static/css/1.b9779858.chunk.css"
   },
   {
-    "revision": "33f79d80fb2adb825e477484f201957c",
+    "revision": "ef5f5ad33d98396b0f02b25df847c252",
     "url": "/epizodeslist_with_calendar/index.html"
   }
 ];
