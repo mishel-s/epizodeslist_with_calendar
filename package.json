@@ -2,15 +2,22 @@
   "name": "epizodeslist_with_calendar",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mishel-s.github.io/epizodeslist_with_calendar/",
   "dependencies": {
+    "date-fns": "^1.29.0",
+    "gh-pages": "^2.0.1",
     "react": "^16.6.3",
+    "react-calendar": "^2.17.5",
     "react-dom": "^16.6.3",
+    "react-md-spinner": "^0.3.0",
     "react-scripts": "2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -b master -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -21,5 +28,19 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {},
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "prettier.eslintIntegration": true,
+  "javascript.format.enable": false,
+  "javascript.validate.enable": false,
+  "files.associations": {
+    "*.jsx": "javascriptreact",
+    "*.js": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  }
 }
