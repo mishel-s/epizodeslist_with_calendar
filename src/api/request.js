@@ -1,5 +1,5 @@
 const promiseEpizodesList = (date) => {
-    return fetch("http://api.tvmaze.com/schedule?country=US&date=" + date.getFullYear() + '-' + ((date.getMonth()+1) < 10 ? '0' + (date.getMonth()+1) : (date.getMonth()+1) ) + '-' + ((date.getDate()) < 10 ? '0' + (date.getDate()) : (date.getDate()) ))
+    return fetch("https://api.tvmaze.com/schedule?country=US&date=" + date.getFullYear() + '-' + ((date.getMonth()+1) < 10 ? '0' + (date.getMonth()+1) : (date.getMonth()+1) ) + '-' + ((date.getDate()) < 10 ? '0' + (date.getDate()) : (date.getDate()) ))
             .then((response) => {
                 return response.json()
             })
