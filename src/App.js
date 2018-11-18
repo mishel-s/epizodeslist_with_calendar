@@ -18,7 +18,6 @@ class App extends Component {
   setEpizodesList = (date) => {
     getEpizodesList(date)
       .then(data => {
-        console.log(data);
         this.setState({
           epizodesList: data,
         })
